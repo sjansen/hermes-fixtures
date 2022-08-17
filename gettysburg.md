@@ -1,5 +1,4 @@
 # Gettysburg Address
-## — Abraham Lincoln
 
 Four score and seven years ago our fathers brought forth on this
 continent, a new nation, conceived in Liberty, and dedicated to the
@@ -26,3 +25,5 @@ we here highly resolve that these dead shall not have died in
 vain—that this nation, under God, shall have a new birth of freedom—and
 that government of the people, by the people, for the people, shall
 not perish from the earth.
+
+— Abraham Lincoln
