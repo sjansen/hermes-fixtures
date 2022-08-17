@@ -1,5 +1,5 @@
-Cantiga de Esponsais
-Machado de Assis
+# Cantiga de Esponsais
+## por Machado de Assis
 
 Imagine a leitora que está em 1813, na igreja do Carmo, ouvindo uma
 daquelas boas festas antigas, que eram todo o recreio público e
