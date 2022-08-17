@@ -1,5 +1,4 @@
 # Cantiga de Esponsais
-## por Machado de Assis
 
 Imagine a leitora que está em 1813, na igreja do Carmo, ouvindo uma
 daquelas boas festas antigas, que eram todo o recreio público e
@@ -162,3 +161,5 @@ nem sabida, na qual coisa um certo lá trazia após si uma linda frase
 musical, justamente a que mestre Romão procurara durante anos sem
 achar nunca. O mestre ouviu-a com tristeza, abanou a cabeça, e à
 noite expirou.
+
+— Machado de Assis
