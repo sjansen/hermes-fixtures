@@ -1,0 +1,9 @@
+# Directories
+archive/
+
+# Files
+/TODO
+.DS_Store
+
+# Patterns
+.*.sw[op]
